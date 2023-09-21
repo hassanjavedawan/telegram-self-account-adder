@@ -1,0 +1,46 @@
+[2023.09.21 02:39:16] Launched version: 3001008, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2023.09.21 02:39:16] Executable dir: C:/Users/DELL/Desktop/BOTS/telegram-self-account-adder/core/, name: Telegram.exe
+[2023.09.21 02:39:16] Initial working dir: C:/Users/DELL/Desktop/BOTS/telegram-self-account-adder/core/
+[2023.09.21 02:39:16] Working dir: C:/Users/DELL/Desktop/BOTS/telegram-self-account-adder/core/
+[2023.09.21 02:39:16] Command line: C:\Users\DELL\Desktop\BOTS\telegram-self-account-adder\core\Telegram.exe
+[2023.09.21 02:39:16] Executable path before check: C:/Users/DELL/Desktop/BOTS/telegram-self-account-adder/core/Telegram.exe
+[2023.09.21 02:39:16] Logs started
+[2023.09.21 02:39:16] Connecting local socket to Global\2633e2d0f5ab9e337cc9a15826309d9c-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2023.09.21 02:39:16] This is the only instance of Telegram, starting server and app...
+[2023.09.21 02:39:16] Moved logging from 'C:/Users/DELL/Desktop/BOTS/telegram-self-account-adder/core/log_start0.txt' to 'C:/Users/DELL/Desktop/BOTS/telegram-self-account-adder/core/log.txt'!
+[2023.09.21 02:39:16] Primary screen DPI: 96
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2023.09.21 02:39:16] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.09.21 02:39:16] Using DirectX compiler 'C:\Windows\SYSTEM32\d3dcompiler_47.dll'.
+[2023.09.21 02:39:16] App Info: reading settings...
+[2023.09.21 02:39:16] App Info: reading encrypted settings...
+[2023.09.21 02:39:16] OpenAL Logging Level: (not set)
+[2023.09.21 02:39:16] Audio Playback Devices: 
+[2023.09.21 02:39:16] Audio Playback Default Device: 
+[2023.09.21 02:39:16] Audio Capture Devices: 
+[2023.09.21 02:39:16] Audio Capture Default Device: 
+[2023.09.21 02:39:16] Audio Error: No capture device found!
+[2023.09.21 02:39:16] App Info: reading accounts info...
+[2023.09.21 02:39:16] App Info: reading encrypted info...
+[2023.09.21 02:39:17] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2023.09.21 02:39:17] OpenGL Profile: OpenGLES.
+[2023.09.21 02:39:17] OpenGL Renderer: ANGLE (AMD, AMD FirePro W5000 Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.21026.2006)
+[2023.09.21 02:39:17] OpenGL Vendor: Google Inc. (AMD)
+[2023.09.21 02:39:17] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.7 git hash: 0bb011f9e403)
+[2023.09.21 02:39:17] OpenGL Extensions: GL_OES_depth32, GL_ANGLE_texture_usage, GL_ANGLE_request_extension, GL_OES_compressed_ETC2_sRGB8_texture, GL_EXT_blend_minmax, GL_ANGLE_get_tex_level_parameter, GL_CHROMIUM_copy_texture, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_OES_depth24, GL_NV_EGL_stream_consumer_external, GL_OES_compressed_ETC2_RGB8_texture, GL_EXT_EGL_image_external_wrap_modes, GL_OES_packed_depth_stencil, GL_ANGLE_explicit_context, GL_OES_texture_border_clamp, GL_EXT_multisampled_render_to_texture, GL_ANGLE_copy_texture_3d, GL_EXT_texture_rg, GL_EXT_color_buffer_float, GL_OES_rgb8_rgba8, GL_EXT_disjoint_timer_query, GL_EXT_frag_depth, GL_OES_compressed_EAC_RG11_unsigned_texture, , GL_ANGLE_multi_draw, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_ANGLE_explicit_context_gles1, GL_EXT_shader_texture_lod, GL_EXT_sRGB, GL_EXT_texture_storage, GL_EXT_texture_format_BGRA8888, GL_ANGLE_lossy_etc_decode, GL_ANGLE_translated_shader_source, GL_CHROMIUM_bind_uniform_location, GL_EXT_occlusion_query_boolean, GL_OES_texture_half_float, GL_EXT_blend_func_extended, GL_OES_draw_buffers_indexed, GL_OES_EGL_image, GL_OES_compressed_EAC_R11_unsigned_texture, GL_OES_compressed_ETC2_RGBA8_texture, GL_CHROMIUM_bind_generates_resource, GL_OES_vertex_array_object, GL_OVR_multiview, GL_EXT_draw_elements_base_vertex, GL_EXT_unpack_subimage, GL_NV_pixel_buffer_object, GL_EXT_texture_compression_s3tc_srgb, GL_EXT_debug_marker, GL_ANGLE_robust_client_memory, GL_KHR_debug, GL_OES_EGL_image_external, GL_ANGLE_provoking_vertex, GL_NV_fence, GL_OES_fbo_render_mipmap, GL_ANGLE_program_cache_control, GL_EXT_discard_framebuffer, GL_EXT_draw_buffers_indexed, GL_ANGLE_depth_texture, GL_OES_texture_float_linear, GL_CHROMIUM_lose_context, GL_ANGLE_client_arrays, GL_OES_compressed_EAC_R11_signed_texture, GL_EXT_texture_compression_rgtc, GL_EXT_read_format_bgra, GL_ANGLE_texture_multisample, GL_OES_texture_float, GL_OES_texture_npot, GL_ANGLE_multiview_multisample, GL_ANGLE_texture_compression_dxt5, GL_CHROMIUM_copy_compressed_texture, GL_OES_mapbuffer, GL_EXT_texture_compression_bptc, GL_EXT_texture_filter_anisotropic, GL_EXT_color_buffer_half_float, GL_EXT_instanced_arrays, GL_EXT_texture_norm16, GL_KHR_parallel_shader_compile, GL_ANGLE_instanced_arrays, GL_EXT_float_blend, GL_EXT_map_buffer_range, GL_OES_texture_stencil8, GL_CHROMIUM_sync_query, GL_NV_pack_subimage, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_ANGLE_framebuffer_multisample, GL_OES_get_program_binary, GL_OES_standard_derivatives, GL_OES_texture_half_float_linear, GL_OES_draw_elements_base_vertex, GL_ANGLE_memory_size, GL_OES_compressed_EAC_RG11_signed_texture, GL_ANGLE_pack_reverse_row_order, GL_OVR_multiview2, GL_WEBGL_video_texture, GL_EXT_debug_label, GL_EXT_draw_buffers, GL_EXT_robustness, GL_EXT_texture_compression_dxt1, GL_OES_EGL_image_external_essl3, GL_OES_element_index_uint, GL_OES_surfaceless_context, GL_ANGLE_get_serialized_context_string, GL_ANGLE_framebuffer_blit, GL_ANGLE_texture_compression_dxt3, GL_ANGLE_base_vertex_base_instance
+[2023.09.21 02:39:17] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_flexible_surface_compatibility, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2023.09.21 02:39:17] OpenGL: QOpenGLContext created, version: 3.3.
+[2023.09.21 02:39:17] OpenGL: [TRUE] (OverlayWidget)
+[2023.09.21 02:39:17] Update Info: MTP is unavailable.
+[2023.09.21 02:39:18] Update Info: Starting loading 'C:/Users/DELL/Desktop/BOTS/telegram-self-account-adder/core/tupdates/tx64upd4009009' from 131072 offset.
+[2023.09.21 02:39:18] Update Info: Loading using HTTP from 'https://td.telegram.org/tx64/tx64upd4009009'.
